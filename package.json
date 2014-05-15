@@ -18,7 +18,7 @@
     "api",
     "client"
   ],
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "dependencies": {
     "request": "~2.12.0"
